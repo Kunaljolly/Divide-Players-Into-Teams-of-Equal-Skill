@@ -37,6 +37,6 @@ There is no way to divide the players into teams such that the total skill of ea
 
 Constraints:
 
-2 <= skill.length <= 105
+2 <= skill.length <= 10^5
 skill.length is even.
 1 <= skill[i] <= 1000
